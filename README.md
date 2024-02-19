@@ -3,7 +3,7 @@
 An independent web developer who likes creating web projects and UI/UX design. I enjoy PHP with the Laravel framework and make it the main language for creating projects.
 
 - 🌱 I'm currently learning about React & Next JS for
-- 📫 I also have a personal website, namely <a href="cartera.my.id">cartera</a>
+- 📫 I also have a personal website, namely <a href="https://cartera.my.id/">cartera</a>
   
 ### Github Statistics
 <p aligned="left">
